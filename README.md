@@ -48,7 +48,7 @@ Description: This Flutter application provides a robust online platform to facil
 ### Project 2:  [CRUD using SQFLITE](https://github.com/Arpitpatel259/CRUD_SQFLITE_Flutter)
 Description: This project demonstrates a simple CRUD (Create, Read, Update, Delete) operation in a Flutter application using the SQFLITE plugin for local database management. SQFLITE is a SQLite plugin for Flutter, providing a persistent storage solution for managing structured data within the app.
 
-> For more projects, check out [My Repositories](https://github.com/Arpitpatel259?tab=repositories)
+> For more projects, check out [My Repositories](https://github.com/kelvi-khant?tab=repositories)
 
 <br>
-⭐️ From [Arpit Vekariya](https://github.com/Arpitpatel259)
+⭐️ From [Kelvi Khant](https://github.com/kelvi-khant)
