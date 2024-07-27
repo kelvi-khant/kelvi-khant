@@ -1,10 +1,10 @@
-# Hi there 👋, I'm Kelvi khant
+# Hii 👋, I'm Kelvi khant
 
-## 🚀 About Me
+## 🗯️ About Me
 I'm a passionate developer with expertise in Flutter and Android development. I love creating beautiful and functional mobile applications. My goal is to build products that not only meet the requirements but also provide an excellent user experience.
 
 - 🌍 I'm based in Surat, Gujarat
-- 🌱 I’m currently learning Flutter
+- 📔I’m currently learning Flutter
 
 ## 📫 Connect with Me
 <div id="badges">
@@ -37,11 +37,11 @@ I'm a passionate developer with expertise in Flutter and Android development. I 
 
 
 ## 📂 Projects
-### Project 1: [Classroom App](https://github.com/Arpitpatel259/Classroom_App)
-Description: This Flutter application provides a robust online platform to facilitate seamless interaction between students and teachers. The project aims to streamline day-to-day department-level tasks and ensure that all necessary information is communicated efficiently to the respective users. Built using Flutter and Dart, the application leverages Firebase as the backend database to provide real-time data synchronization and storage.
+### Project 1: [bday app](https://github.com/kelvi-khant/bday_app )
+.
 
-### Project 2:  [CRUD using SQFLITE](https://github.com/Arpitpatel259/CRUD_SQFLITE_Flutter)
-Description: This project demonstrates a simple CRUD (Create, Read, Update, Delete) operation in a Flutter application using the SQFLITE plugin for local database management. SQFLITE is a SQLite plugin for Flutter, providing a persistent storage solution for managing structured data within the app.
+### Project 2:  [iphone wallpaper](https://github.com/kelvi-khant/iphone-Wallpaper)
+
 
 > For more projects, check out [My Repositories](https://github.com/kelvi-khant?tab=repositories)
 
