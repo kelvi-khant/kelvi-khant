@@ -32,7 +32,7 @@ I'm a passionate developer with expertise in Flutter and Android development. I 
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)&nbsp;
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com/)&nbsp;
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)&nbsp;
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E5E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 
 
 
