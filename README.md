@@ -1,27 +1,21 @@
-# Hi there 👋, I'm Arpit Vekariya
+# Hi there 👋, I'm Kelvi khant
 
 ## 🚀 About Me
 I'm a passionate developer with expertise in Flutter and Android development. I love creating beautiful and functional mobile applications. My goal is to build products that not only meet the requirements but also provide an excellent user experience.
 
 - 🌍 I'm based in Surat, Gujarat
 - 🌱 I’m currently learning Flutter
-- ⚡ Fun fact: I'm comming to teen
 
 ## 📫 Connect with Me
 <div id="badges">
 
-  <a href="https://github.com/Arpitpatel259">
+  <a href="https://github.com/kelvi-khant">
       <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>&nbsp;&nbsp;
 
-  <a href="mailto:aj.vekariya123@gmail.com">
+  <a href="mailto:kelvikhant13@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email Badge"/>
   </a>&nbsp;&nbsp;
-
-  <a href="http://arpit-blog.epizy.com">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-  </a>&nbsp;&nbsp;
-
 </div>
 
 ## 🛠️ Skills
