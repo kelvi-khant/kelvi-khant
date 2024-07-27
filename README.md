@@ -30,9 +30,10 @@ I'm a passionate developer with expertise in Flutter and Android development. I 
 ### Tools & Technologies
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)&nbsp;
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)&nbsp;
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)&nbsp;
-[![Talend](https://img.shields.io/badge/Talend-FF6C37?style=flat&logo=talend&logoColor=white)](https://www.talend.com/)&nbsp;
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com/)&nbsp;
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)&nbsp;
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
+
 
 
 ## 📂 Projects
