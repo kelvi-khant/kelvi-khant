@@ -37,10 +37,10 @@ I'm a passionate developer with expertise in Flutter and Android development. I 
 
 
 ## 📂 Projects
-### Project 1: [bday app](https://github.com/kelvi-khant/bday_app )
+### Project 1: [bday app](https://github.com/kelvi-khant/godown_management)
 .
 
-### Project 2:  [iphone wallpaper](https://github.com/kelvi-khant/iphone-Wallpaper)
+### Project 2:  [iphone wallpaper](https://github.com/kelvi-khant/goal_tracker )
 
 
 > For more projects, check out [My Repositories](https://github.com/kelvi-khant?tab=repositories)
